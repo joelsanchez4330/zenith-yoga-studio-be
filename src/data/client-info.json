@@ -1,1 +1,138 @@
-{}
+{
+  "selectedComponents": {
+    "hero": "hero_03",
+    "feature": "feature_02",
+    "gallery": "gallery_01",
+    "cta": "cta_01",
+    "footer": "footer_01"
+  },
+  "theme": {
+    "primaryColor": "#8B9467",
+    "secondaryColor": "#6B7280",
+    "neutralBg": "#F9FAFB",
+    "textColor": "#111827",
+    "fontFamily": "Inter",
+    "borderRadius": "24px"
+  },
+  "company": {
+    "name": "Zenith Yoga Studio",
+    "logoUrl": "https://example.com/logo.png"
+  },
+  "siteConfig": {
+    "hero": {
+      "title": "Find Your Inner Peace",
+      "highlightWord": "Peace",
+      "subtitle": "Join our yoga community today",
+      "cta01Text": "Get Started",
+      "cta02Text": "Learn More",
+      "gallery": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "sizes": {
+        "titleFont": "56px",
+        "subtitleFont": "20px",
+        "buttonPadding": "14px 28px",
+        "buttonFontSize": "16px",
+        "imageHeight": "600px",
+        "imageMaxWidth": "100%"
+      }
+    },
+    "features": {
+      "topTitle": "What We Offer",
+      "mainTitle": "Transform Your Body and Mind",
+      "tag": "Yoga",
+      "items": [
+        {
+          "title": "Expert Instruction",
+          "desc": "Our experienced instructors will guide you through each class",
+          "icon": "Activity",
+          "tag": "Fitness",
+          "highlight": "Get Fit"
+        },
+        {
+          "title": "Variety of Classes",
+          "desc": "From beginner to advanced, we have a class for everyone",
+          "icon": "Grid",
+          "tag": "Wellness",
+          "highlight": "Relax"
+        }
+      ]
+    },
+    "gallery": {
+      "tag": "Yoga",
+      "title": "Our Studio",
+      "highlight": "Serenity",
+      "categories": [
+        "All",
+        "Classes",
+        "Events"
+      ],
+      "items": [
+        {
+          "url": "https://example.com/image3.jpg",
+          "aspect": "aspect-square",
+          "overlayColor": "rgba(0,0,0,0.5)"
+        },
+        {
+          "url": "https://example.com/image4.jpg",
+          "aspect": "aspect-landscape",
+          "overlayColor": "rgba(0,0,0,0.3)"
+        }
+      ]
+    },
+    "cta": {
+      "mainTitle": "Join Our Community",
+      "line1": "Experience the benefits of yoga",
+      "line2": "Transform your body and mind",
+      "buttonText": "Sign Up Today"
+    },
+    "footer": {
+      "companyDesc": "Zenith Yoga Studio is a community-driven yoga studio dedicated to helping you achieve your wellness goals",
+      "socials": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/zenithyogastudio"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/zenithyogastudio"
+        }
+      ],
+      "columns": [
+        {
+          "title": "Links",
+          "links": [
+            {
+              "label": "Home",
+              "url": "/"
+            },
+            {
+              "label": "Classes",
+              "url": "/classes"
+            },
+            {
+              "label": "About",
+              "url": "/about"
+            }
+          ]
+        },
+        {
+          "title": "Contact",
+          "links": [
+            {
+              "label": "Email",
+              "url": "mailto:info@zenithyogastudio.com"
+            },
+            {
+              "label": "Phone",
+              "url": "tel:555-555-5555"
+            }
+          ]
+        }
+      ],
+      "title": "Stay Connected",
+      "buttonText": "Subscribe to Our Newsletter"
+    }
+  }
+}
